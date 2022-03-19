@@ -1,0 +1,66 @@
+.get-early{
+  text-align: center;
+  background: #1B2330;
+  box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.254274);
+  border-radius: 9px;
+  width: 800px;
+  height: 250px;
+  margin-top: 201px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 40px 70px;
+  position: absolute;
+  top: 2820px;
+  left: 200px;
+}
+
+.get-early__heading{
+  font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+color: #FFFFFF;
+}
+
+.get-early__text{
+  font-family: 'OpenSans';
+font-size: 18px;
+line-height: 21px;
+color: #FFFFFF;
+}
+
+.get-early__input {
+  margin-top: 20px;
+  padding: 17px 208px 15px 38px;
+  background: #FFFFFF;
+  box-shadow: 2px 3px 6px rgba(7, 4, 59, 0.157043);
+  border-radius: 24px;
+  border: none;
+}
+
+.get-early__input::placeholder{
+  font-family: 'OpenSans';
+  font-size: 18px;
+  line-height: 14px;
+  color: #C0C0C0;
+  border: none;
+}
+
+.get-early__button{
+  background: linear-gradient(152.13deg, #63E1D9 -150.21%, #34A0CD 170.03%);
+  box-shadow: 2px 3px 6px rgba(7, 4, 59, 0.157043);
+  border-radius: 24px;
+  border: none;
+  padding: 17px 27px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  color: #FFFFFF;
+  margin-left: 10px;
+  cursor: pointer;
+
+}
+

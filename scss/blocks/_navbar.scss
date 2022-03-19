@@ -1,0 +1,24 @@
+.navbar{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar__list{
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.navbar__item ~ .navbar__item{
+  margin-left: 57px; 
+}
+
+.navbar__link{
+  text-decoration: none;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+}

@@ -1,0 +1,58 @@
+.site-main{
+  background-color: #1B2330;
+  background-image:url("/img/background-image.png");
+  background-repeat: no-repeat;
+  background-size: 1684px 2770px ;
+  background-position:-133px 659px;
+  position: relative
+}
+
+.site-main__hero{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.site-main__hero-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 90px;
+}
+
+
+.site-main__hero-heading{
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 37px;
+  color: #FFFFFF;
+}
+
+.site-main__hero-text{
+  font-family: 'OpenSans';
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.site-main__hero-button{
+  margin-top: 25px;
+  background: linear-gradient(152.13deg, #63E1D9 -150.21%, #34A0CD 170.03%);
+  box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+  border-radius: 28px;
+  padding: 19px 95px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 19px;
+  color: #FFFFFF;
+  border:none;
+  cursor: pointer;
+}
+
+

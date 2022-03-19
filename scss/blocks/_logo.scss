@@ -1,0 +1,16 @@
+.logo{
+  display: flex;
+  align-items: center;
+}
+
+.logo__image{
+  width: 60px;
+  height: 48px;
+  display: block;
+}
+
+.logo__span{
+  color: #fff;
+  font-size: 35px;
+  margin-left:15px;
+}

@@ -1,0 +1,64 @@
+.special-offers {
+  margin-top: 170px;
+}
+
+.special-offers__list {
+  list-style-type:none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.special-offers__item {
+  text-align: center;
+}
+
+.special-offers__item-heading {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 23px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.special-offers__item-text{
+  font-family: 'OpenSans';
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.special-offers__second-list {
+  list-style-type: none;
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.special-offers__second-item{
+  text-align: center;
+}
+
+
+.special-offers__second-item-heading {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 23px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.special-offers__second-item-text{
+  font-family: 'OpenSans';
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+color: #FFFFFF;
+}
+
